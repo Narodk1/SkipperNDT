@@ -1,5 +1,13 @@
 # SkipperNDT — Pipeline Detection System
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange?logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1.24+-blue?logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-1.10+-blue?logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2+-orange?logo=scikitlearn&logoColor=white)
+![MAE](https://img.shields.io/badge/MAE-2.01m-green)
+![Median](https://img.shields.io/badge/Median%20Error-0.80m-brightgreen)
+
 > Magnetic anomaly detection and width estimation for buried pipelines using drone survey data.
 
 ---
